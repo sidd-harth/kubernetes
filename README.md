@@ -9,17 +9,17 @@ If you are looking for `CKS` resources, scroll to the bottom of this page.
 **Note** - Please feel free to make a pull request if there's something wrong, should be added, or updated.
 
 ## Sections
- 1. [CKA and CKAD - Beyond Certification Challeneges](https://github.com/sidd-harth/k8s#cka-ckad-challenges)
- 2. [CKA and CKAD Exam Tips](https://github.com/sidd-harth/k8s#cka-ckad-exam-tips)
-    - [Using aliases](https://github.com/sidd-harth/k8s#using-aliases)
-    - [VIM editor changes](https://github.com/sidd-harth/k8s#vim-editor-changes)
-    - [Bookmarks](https://github.com/sidd-harth/k8s#bookmark)
- 3. [CKS Resources](https://github.com/sidd-harth/k8s#cks-resources)
+ 1. [CKA and CKAD - Beyond Certification Challeneges](https://github.com/sidd-harth/kubernetes#cka-ckad-challenges)
+ 2. [CKA and CKAD Exam Tips](https://github.com/sidd-harth/kubernetes#cka-ckad-exam-tips)
+    - [Using aliases](https://github.com/sidd-harth/kubernetes#using-aliases)
+    - [VIM editor changes](https://github.com/sidd-harth/kubernetes#vim-editor-changes)
+    - [Bookmarks](https://github.com/sidd-harth/kubernetes#bookmark)
+ 3. [CKS Resources](https://github.com/sidd-harth/kubernetes#cks-resources)
 
 ## CKA CKAD Challenges
-- Challenge 1 - [Encrypting Secret Data at Rest](https://github.com/sidd-harth/k8s/tree/main/challenges)
-- Challenge 2 - [Expanding PVC Storage Size](https://github.com/sidd-harth/k8s/tree/main/challenges)
-- Challenge 3 - [Startup Probe](https://github.com/sidd-harth/k8s/tree/main/challenges)
+- Challenge 1 - [Encrypting Secret Data at Rest](https://github.com/sidd-harth/kubernetes/blob/main/challenges/Encrypting%20Secret%20Data%20at%20Rest.md)
+- Challenge 2 - [Expanding PVC Storage Size](https://github.com/sidd-harth/kubernetes/blob/main/challenges/Expanding%20PVC%20Storage%20Size.md)
+- Challenge 3 - [Startup Probe](https://github.com/sidd-harth/kubernetes/blob/main/challenges/Startup%20Probe.md)
 
 ## CKA CKAD Exam Tips
 Kubectl `aliases`
