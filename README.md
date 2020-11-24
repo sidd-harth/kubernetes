@@ -13,7 +13,7 @@ If you are looking for `CKS` resources, scroll to the bottom of this page.
  2. [CKA and CKAD Exam Tips](https://github.com/sidd-harth/kubernetes#cka-ckad-exam-tips)
     - [Using aliases](https://github.com/sidd-harth/kubernetes#using-aliases)
     - [VIM editor changes](https://github.com/sidd-harth/kubernetes#vim-editor-changes)
-    - [Bookmarks](https://github.com/sidd-harth/kubernetes#bookmark)
+    - [Bookmarks](https://github.com/sidd-harth/kubernetes#bookmarks)
  3. [CKS Resources](https://github.com/sidd-harth/kubernetes#cks-resources)
 
 ## CKA CKAD Challenges
@@ -59,7 +59,8 @@ k get ep > /opt/INC002/endpoints.txt
 kn default      # I feel it is a good practice to switch back to default namespace after every question
 ```
 
-#### `VIM` Editor changes - These two additions were enough for me to edit/create `YAMLs` using VI
+#### `VIM` Editor changes - 
+These two additions were enough for me to edit/create `YAMLs` using VI
 ```
 sudo vi /etc/vim/vimrc
 set number
