@@ -59,7 +59,7 @@ k get ep > /opt/INC002/endpoints.txt
 kn default      # I feel it is a good practice to switch back to default namespace after every question
 ```
 
-#### `VIM` Editor changes - 
+#### `VIM` Editor changes 
 These two additions were enough for me to edit/create `YAMLs` using VI
 ```
 sudo vi /etc/vim/vimrc
@@ -71,7 +71,7 @@ set paste
 During the exam, you can keep only one other browser tab open to refer to official documentation. I have uploaded the bookmarks which I have used for 1.19version. These bookmarks can be used for both CKA/CKAD.
 | Name | Resource |
 | ---- | ------ |
-| Bookmark | [Kubernetes-Chrome-Bookmarks](https://github.com/sidd-harth/k8s/blob/main/Kubernetes-Chrome-Bookmarks.html) |
+| Bookmark | [Kubernetes-Chrome-Bookmarks](https://github.com/sidd-harth/kubernetes/blob/main/Kubernetes-Chrome-Bookmarks.html) |
 
 ## CKS Resources
   - [Walid Shaari](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist)
