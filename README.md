@@ -17,9 +17,9 @@ If you are looking for `CKS` resources, scroll to the bottom of this page.
  3. [CKS Resources](https://github.com/sidd-harth/kubernetes#cks-resources)
 
 ## CKA CKAD Challenges
-- Challenge 1 - [Encrypting Secret Data at Rest](https://github.com/sidd-harth/kubernetes/blob/main/challenges/Encrypting%20Secret%20Data%20at%20Rest.md)
-- Challenge 2 - [Expanding PVC Storage Size](https://github.com/sidd-harth/kubernetes/blob/main/challenges/Expanding%20PVC%20Storage%20Size.md)
-- Challenge 3 - [Startup Probe](https://github.com/sidd-harth/kubernetes/blob/main/challenges/Startup%20Probe.md)
+- Challenge 1 - [Encrypting Secret Data at Rest](https://github.com/sidd-harth/kubernetes/blob/main/challenges/01%20-%20Encrypting%20Secret%20Data%20at%20Rest.md)
+- Challenge 2 - [Expanding PVC Storage Size](https://github.com/sidd-harth/kubernetes/blob/main/challenges/02%20-%20Expanding%20PVC%20Storage%20Size.md)
+- Challenge 3 - [Startup Probe](https://github.com/sidd-harth/kubernetes/blob/main/challenges/03%20-%20Startup%20Probe.md)
 - Challenge 4 - [Check ServiceAccount Permissions](https://github.com/sidd-harth/kubernetes/blob/main/challenges/04%20-%20Check%20ServiceAccount%20Permissions.md)
 
 ## CKA CKAD Exam Tips
